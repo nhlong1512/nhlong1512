@@ -23,14 +23,7 @@
 ---
 
 ### :woman_technologist: About Me :
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
-
-- :seedling: Exploring Technical Content Writing.
-
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
-
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+:seedling: I’m currently studying at UIT.
 
 ---
 
@@ -48,5 +41,11 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nhlong1512)](https://github.com/anuraghazra/github-readme-stats)
+###
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=nhlong1512&show_icons=true&theme=radical)
+
+###
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nhlong1512&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
