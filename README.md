@@ -15,7 +15,8 @@
   Hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   
-    ![](https://komarev.com/ghpvc/?username=nhlong1512&color=green)
+  ![](https://komarev.com/ghpvc/?username=nhlong1512&color=green)
+  
 </h1>
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
