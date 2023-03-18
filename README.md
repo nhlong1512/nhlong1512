@@ -61,6 +61,8 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=nhlong1512&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nhlong1512&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](<iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?nhlong1512" frameborder="0"></iframe>)
+
 
 
 
