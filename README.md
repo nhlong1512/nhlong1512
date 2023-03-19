@@ -60,8 +60,6 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=nhlong1512&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nhlong1512&hide=javascript,css,scss,html&theme=tokyonight)
-</table>
 
 <p>
     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
