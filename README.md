@@ -61,19 +61,6 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=nhlong1512&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nhlong1512&hide=javascript,css,scss,html&theme=tokyonight)
-
-<div align="center">
-  <div style="display: flex;">
-    <iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?nhlong1512" frameborder="0"></iframe>
-    <img src="https://github-readme-stats.vercel.app/api?username=nhlong1512&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515" />
-  </div>
-</div>
-
-<table>
-  <tr>
-    <td valign="top"><iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?nhlong1512" frameborder="0"></iframe></td>
-    <td valign="top"><img src="https://github-readme-stats.vercel.app/api?username=nhlong1512&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515" /></td>
-  </tr>
 </table>
 
 
