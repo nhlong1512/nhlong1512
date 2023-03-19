@@ -67,7 +67,7 @@
 
 <div align="center">
   <div style="display: flex;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nhlongn1512&layout=compact&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515" style="vertical-align: top;" />
+    <iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?nhlong1512" frameborder="0"></iframe>
     <img src="https://github-readme-stats.vercel.app/api?username=nhlong1512&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515" />
   </div>
 </div>
