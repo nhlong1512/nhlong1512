@@ -64,7 +64,7 @@
 
 <p>
     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
- <img width=320 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nhlong1512&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=168&layout=compact&border_color=61dafb&hide_border=true" />    </a>
+ <img width=320 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nhlong1512&hide=jupyter%20notebook,shell,scss&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=168&layout=compact&border_color=61dafb&hide_border=true" />    </a>
 </p>
 
 
