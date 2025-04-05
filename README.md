@@ -27,7 +27,7 @@
 ---
 
 ### :woman_technologist: About Me :
-:seedling: I’m currently studying at UIT.
+:seedling: Graduated from UIT.
 
 ---
 
