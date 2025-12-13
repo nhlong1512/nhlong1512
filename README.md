@@ -27,7 +27,8 @@
 ---
 
 ### :woman_technologist: About Me :
-:seedling: Graduated from UIT.
+- :seedling: Graduated from University of Information Technology (UIT)
+- :office: Currently working at **Nexcel Solutions Company**
 
 ---
 
