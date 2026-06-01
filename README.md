@@ -65,10 +65,10 @@
 
 ### :fire: My Stats :
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=nhlong1512&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats-orpin-nu-27.vercel.app/api?username=nhlong1512&show_icons=true&theme=radical)
 
 <p>
   <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-    <img width="320" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nhlong1512&hide=jupyter%20notebook,shell,scss,less&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+    <img width="320" align="center" src="https://github-readme-stats-orpin-nu-27.vercel.app/api/top-langs/?username=nhlong1512&hide=html,css,jupyter%20notebook,shell,scss,less&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
   </a>
 </p>
