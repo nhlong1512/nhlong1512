@@ -39,6 +39,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg" title="Redis" alt="Redis" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/rabbitmq/rabbitmq-original.svg" title="RabbitMQ" alt="RabbitMQ" width="40" height="40"/>&nbsp;
   <img src="https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=socketdotio&logoColor=white" title="WebSocket" alt="WebSocket" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/elasticsearch/elasticsearch-original.svg" title="Elasticsearch" alt="Elasticsearch" width="40" height="40"/>&nbsp;
+  <img src="https://img.shields.io/badge/OpenSearch-005EB8?style=for-the-badge&logo=opensearch&logoColor=white" title="OpenSearch" alt="OpenSearch" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" title="Azure" alt="Azure" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
